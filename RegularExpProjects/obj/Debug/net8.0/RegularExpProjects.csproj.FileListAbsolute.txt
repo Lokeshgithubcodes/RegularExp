@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\bin\Debug\net8.0\RegularExpProjects.exe
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\bin\Debug\net8.0\RegularExpProjects.deps.json
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\bin\Debug\net8.0\RegularExpProjects.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\bin\Debug\net8.0\RegularExpProjects.dll
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\bin\Debug\net8.0\RegularExpProjects.pdb
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.dll
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\refint\RegularExpProjects.dll
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.pdb
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\RegularExpProjects.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\RegularExpProjects\RegularExpProjects\obj\Debug\net8.0\ref\RegularExpProjects.dll
